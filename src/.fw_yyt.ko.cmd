@@ -1,0 +1,1 @@
+cmd_/home/seed/Desktop/CWall-master/fw_yyt.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-37-generic/scripts/module-common.lds --build-id  -o /home/seed/Desktop/CWall-master/fw_yyt.ko /home/seed/Desktop/CWall-master/fw_yyt.o /home/seed/Desktop/CWall-master/fw_yyt.mod.o
